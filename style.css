@@ -54,9 +54,7 @@ h1{
     height: 20%;
 }
 .description{
-    height: 20%;
-    weight: 20%;
-    box-shadow: lightskyblue;
+    height: 40%;
 }
 .division{
     
@@ -87,7 +85,8 @@ h1{
     border-bottom: 7px solid;
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
-    box-shadow: 10PX 10PX  5PX lightcyan;
+    box-shadow: 10PX 10PX  3PX lightcyan;
+
 }
 #second-division{
     border-right: 7px solid;
