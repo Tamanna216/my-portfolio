@@ -1,0 +1,105 @@
+#start{
+    text-align: right;
+    padding-right: 5%;
+}
+#name{
+    color: rgb(218, 40, 173);
+}
+.introduction{
+    height: 80%;
+    margin-left: 5px;
+    padding-left: 2px;
+    width: 40%;
+    float: left;
+    text-align: justify;
+}
+.introduction img{
+    height: 10%;
+    width: 70%;
+}
+.link{
+    border-radius: 5%;
+    padding: 1%;
+    background-color: rgb(224, 83, 40);
+   text-decoration: none;
+}
+section{
+    padding-bottom: 400px;
+}
+.me{
+    height: 80%;
+    width: 40%;
+    margin-right: 5px;
+    padding-right: 2px;
+    float: right;
+    text-align: justify;
+}
+.me img{
+    height: 20%;
+    width: 70%;
+}
+h1{
+    text-align: center;
+    padding-bottom: 100PX;
+}
+#span{
+    font-family: fantasy;
+    color: lightcoral;
+}
+.music{
+    height: 60%;
+     width: 60%;
+}
+.heading{
+    height: 20%;
+}
+.description{
+    height: 20%;
+    weight: 20%;
+    box-shadow: lightskyblue;
+}
+.division{
+    
+    float: left;
+    padding-left:3%;
+    width: 25%;
+    margin-left: 2%;
+    text-align: left;
+    height: 100%;
+}
+.first{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.second{
+    background-image: url(images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.third{
+    background-image: url(images/top-banner.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+#first-division{
+    border-right: 7px solid;
+    border-bottom: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+    box-shadow: 10PX 10PX  5PX lightcyan;
+}
+#second-division{
+    border-right: 7px solid;
+    border-bottom: 7px solid;
+    border-image: linear-gradient(rgb(218, 33, 104), rgb(207, 48, 207));
+    border-image-slice: 1;
+    box-shadow: 10PX 10PX  30PX rgb(231, 62, 209);
+}
+#third-division{
+    border-right: 7px solid;
+    border-bottom: 7px solid;
+    border-image: linear-gradient(green, lightgreen);
+    border-image-slice: 1;
+    box-shadow: 10PX 10PX  30PX lightgreen;
+}
